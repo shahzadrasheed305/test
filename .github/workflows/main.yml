@@ -6,7 +6,7 @@ branches: [main]
 
 jobs:
 demo:
-runs-on: ubunto-latest
+runs-on: ubuntu-latest
 
 steps:
 - name: greetings
